@@ -7,7 +7,7 @@ Atividade 1
 
 Forrest Gump: o contador de histórias
 
-Star Wars episódio 5: O império contra-ataca
+Dias de treinamento
 
 Berserk, a era de ouro, parte 3
 
@@ -18,3 +18,5 @@ Assasssins creed the last descendants: Revolta em nova york
 Cronicas de gelo e fogo: Tormenta de espadas
 
 Pequeno Principe
+
+misery
